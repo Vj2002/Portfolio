@@ -1,6 +1,6 @@
 # Vaibhav Jain — Personal Portfolio
 
-A modern, animated portfolio built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
+A modern, animated portfolio built with **Next.js**, **TypeScript** and **Tailwind CSS**.
 
 ## Tech stack
 
@@ -30,9 +30,7 @@ npm start
 - **Hero** — Name, title, and primary CTAs
 - **About** — Short bio and social links
 - **Experience** — Veersa Technologies & Solar Secure Solutions
-- **Projects** — Chat It (add more as needed)
+- **Projects** — Chat It
 - **Skills** — Programming, Web, Database, Other
 - **Achievements** — LeetCode, CodeForces, problem-solving stats
 - **Contact** — Email, phone, and all profile links
-
-Enjoy your new portfolio.
